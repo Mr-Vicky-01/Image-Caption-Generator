@@ -28,4 +28,4 @@ The objective of the project is to predict the captions for the input image. The
 https://github.com/Mr-Vicky-01/tamil_summarization/assets/143078285/eb15c7f3-1a9f-40cd-9ba2-4cd87a8b19e8
 
 ## Link
-[Hugging Face](https://huggingface.co/spaces/Mr-Vicky-01/ImageCaptioner)
+[Try this Model](https://huggingface.co/spaces/Mr-Vicky-01/ImageCaptioner)
